@@ -1,12 +1,16 @@
 import React from "react";
-import { View, Text } from "react-native";
+import { View, Text, StyleSheet } from "react-native";
 
-const Cadastro = () => {
+export default function Cadastro() {
   return (
-    <View>
+    <View style={styles.container}>
       <Text>Tela de Cadastro</Text>
     </View>
   );
-};
+}
 
-export default Cadastro;
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+  }
+});
