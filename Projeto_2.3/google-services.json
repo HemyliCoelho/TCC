@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "84970477731",
-    "project_id": "opinemap",
-    "storage_bucket": "opinemap.appspot.com"
+    "project_number": "297203444793",
+    "project_id": "opinemap-5fe1a",
+    "storage_bucket": "opinemap-5fe1a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:84970477731:android:92d9c03663ac5b496fc716",
+        "mobilesdk_app_id": "1:297203444793:android:6514346f245dac0106b1e8",
         "android_client_info": {
-          "package_name": "com.Hemyli.findplace"
+          "package_name": "com.company.OpineMap"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAs3Jyas9R9ip0rGNGdhPVIsbMfAJGGF2M"
+          "current_key": "AIzaSyDDBWS49L7FdsOwY6_r7b-wIPLiQx5vIiA"
         }
       ],
       "services": {

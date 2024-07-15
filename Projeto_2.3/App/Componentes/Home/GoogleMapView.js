@@ -27,7 +27,7 @@ export default function GoogleMapView({placeList}) {
     <View style={{ marginTop: 20 }}>
       <Text style={{ fontSize: 20, 
         marginBottom: 10, fontWeight: "600"}}>
-        Top Near By Places
+        Mapa - Locais Marcados
       </Text>
       <View style={{ borderRadius: 20, overflow: "hidden" }}>
     {location?    <MapView
